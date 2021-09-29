@@ -1,0 +1,14 @@
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\U19.csproj.AssemblyReference.cache
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\App.g.i.cs
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\App.g.cs
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\App.xaml
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\MainPage.xaml
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page1.xaml
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page2.xaml
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page3.xaml
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\App.xbf
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\MainPage.xbf
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page1.xbf
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page2.xbf
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\Page3.xbf
+C:\Users\NguyenTien\Source\Repos\csharp\U19\obj\x86\Debug\XamlSaveStateFile.xml
